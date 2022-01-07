@@ -64,3 +64,18 @@
   .isq{
     font-family: cursive;
   }
+  .vission {
+    background-color: rgb(252, 252, 199);
+    width: 25%;
+    padding: 25px;
+    margin: 10px;
+    height: 80%;
+    border-radius: 20px;
+  }
+.illu-2{
+  height: 40%;
+    width: 40%;
+}
+.love{
+  font-family: cursive;
+}
