@@ -38,3 +38,18 @@
   .heading-1 {
     padding-left: 500px;
   }
+  .scrole {
+    padding: 15px;
+  }
+  .img-mission {
+    height: 40%;
+    width: 40%;
+  }
+  .heading-2 {
+    padding-left: 500px;
+  }
+  .outline {
+    display: flex;
+  
+    padding-left: 30px;
+  }
