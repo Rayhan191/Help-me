@@ -41,15 +41,26 @@
   .scrole {
     padding: 15px;
   }
-  .img-mission {
+  .illu-img {
     height: 40%;
     width: 40%;
   }
-  .heading-2 {
+  .heading-1 {
     padding-left: 500px;
   }
-  .outline {
+  .space {
     display: flex;
   
     padding-left: 30px;
+  }
+  .jupitar {
+    background-color: rgb(221, 236, 236);
+    width: 25%;
+    padding: 20px;
+    margin: 5px;
+    height: 40%;
+    border-radius: 20px;
+  }
+  .isq{
+    font-family: cursive;
   }
